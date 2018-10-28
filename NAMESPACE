@@ -1,0 +1,5 @@
+import("DoE.base")
+import("hierNet")
+importFrom("gtools","permutations")
+importFrom("stats", "contrasts", "model.matrix", "quantile", "predict","runif")
+export(atm.init,atm.nextpts,atm.addpts,atm.predict,atm.remlev,detpep10exp,camel6)

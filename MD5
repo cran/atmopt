@@ -1,0 +1,17 @@
+f336ea19fd9e1e98b4383c5ee617ceb6 *DESCRIPTION
+2178434f866e7c1a1ae889aa0e968792 *NAMESPACE
+b63eb3c966a1bc69a528a41139bc82dc *R/atm.R
+eec1341ba028a3dda51b5503c2aa4f14 *R/cte.R
+e0752140438be77d9a129a296eea279c *R/funcBank.R
+156b8dc625136059746a3fd0a7e371d7 *R/header.R
+65655f3d4e8e2425b69ab5248c083be8 *R/hello.R
+ebed2d82b819e644566f4e2cad35b2df *R/marginal.R
+f3851c2f212330b73fea0f90c46a922f *R/tune.alpha.R
+cd29dad38e84179f8a31e7794488b668 *man/atm.addpts.Rd
+555f098da4ed56a529ac162c9ff6d645 *man/atm.init.Rd
+e635ea86533d8fa9e2e7a1575824e126 *man/atm.nextpts.Rd
+a3e8abdad344b9c11b50b5de5a8c7aff *man/atm.predict.Rd
+a23ac26900bc1c39a8e7f9f287395f6e *man/atm.remlev.Rd
+769a75154194d34192880ffff607ce85 *man/atmopt-package.Rd
+3b85e70f01fca6f4aacb5a27dac088f0 *man/camel6.Rd
+066c8e743dc13a1a6b5b6d2598a52c69 *man/detpep10exp.Rd
